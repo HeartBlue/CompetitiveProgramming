@@ -7,7 +7,7 @@ you should give the maximum of f(i)
 
 dp[i][j] = (a[j] * dp[i - 1][j - 1] + dp[i][j - 1]) % m;
 
-dp[i][j] means the product of the first j numbers with group size i
+dp[i][j] means the sum of the product of the first j numbers with group size i
 
 */
 
