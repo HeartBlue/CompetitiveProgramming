@@ -1,3 +1,8 @@
+/*
+
+Learn to solve 2-sat
+
+*/
 #include <cstdlib>
 #include <cctype>
 #include <cstring>
