@@ -1,3 +1,6 @@
+/*
+two pointer
+*/
 #include <cstdlib>
 #include <cctype>
 #include <cstring>
